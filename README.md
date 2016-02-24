@@ -1,2 +1,3 @@
 # ArduinoGameControls
-Control different kinds of games with Arduino!
+
+This project was created to help find new ways of interacting with exciting games.
